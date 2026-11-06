@@ -1,0 +1,183 @@
+/* Naslovna */
+#Naslovna {
+  font-family: georgia;
+  align-items: center;
+  justify-content: center;
+  margin-left: 500px;
+}
+body {
+  background-color: #200d1f86;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+table {
+  align-items: center;
+  align-content: center;
+}
+tr {
+  align-items: center;
+  align-content: center;
+}
+.paragraf {
+  align-items: center;
+  align-content: center;
+  background-color: #fcbdf63a;
+  text-align: center;
+  width: 1535px;
+  height: auto;
+  font-size: 20px;
+  padding: 10px;
+  position: relative;
+  color: black;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+.centered {
+  position: absolute;
+  top: 85%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.centered h1 {
+  font-family: Proxima Nova Bold;
+  font-size: 200px;
+  color: rgb(187, 253, 181);
+}
+.glavna_img {
+  width: 1535px;
+  height: auto;
+}
+.radius {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  padding: 25px;
+  margin: auto;
+}
+
+.tejbl {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  margin-left: 216px;
+  margin-right: 216px;
+  font-size: 30px;
+}
+a:link {
+  text-decoration: none;
+  color: rgba(18, 131, 23, 0.788);
+}
+
+a:visited {
+  text-decoration: none;
+  color: rgba(13, 87, 38, 0.788);
+}
+
+a:hover {
+  text-decoration: none;
+  color: rgba(77, 42, 82, 0.884);
+}
+
+a:active {
+  text-decoration: none;
+
+  color: rgba(95, 18, 131, 0.788);
+}
+p {
+  font-weight: 600;
+  padding: 20px;
+  letter-spacing: 1px;
+}
+h2 {
+  color: rgba(92, 10, 92, 0.877);
+}
+.album {
+  width: 1000px;
+  height: auto;
+}
+.tejbl2 {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  align-self: center;
+  margin-left: 277.5px;
+  margin-right: 277.5px;
+}
+.footer {
+  width: 1535px;
+  background-color: #fcbdf63a;
+  height: auto;
+  font-weight: bold;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+/* Naslovna */
+/* Noodle */
+#Noodle {
+  font-family: georgia;
+  align-items: center;
+  justify-content: center;
+  margin-left: 500px;
+}
+.rejdius {
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  padding: 25px;
+  margin: auto;
+}
+
+/* Noodle */
+/* 2D */
+#TwoD {
+  font-family: georgia;
+  align-items: center;
+  justify-content: center;
+  margin-left: 500px;
+}
+/* 2D */
+#Murdoc {
+  font-family: georgia;
+  align-items: center;
+  justify-content: center;
+  margin-left: 500px;
+}
+#Russel {
+  font-family: georgia;
+  align-items: center;
+  justify-content: center;
+  margin-left: 500px;
+}
+
+/* Class */
+.Class {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.class-div {
+  text-align: center;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+  width: 70%;
+  background-color: #fcbdf63a;
+  margin-left: 14%;
+  margin-right: 14%;
+  padding: 2%;
+  font-size: 20px;
+}
+/* Context */
+body .Container-dark {
+  background-color: rgb(53, 11, 73);
+  margin-right: 470px;
+}
+body .Container-light {
+  background-color: rgb(224, 197, 235);
+  margin-right: 470px;
+}
